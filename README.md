@@ -4,7 +4,7 @@
 sudo apt-get install libreadline-dev libconfig-dev libssl-dev lua5.2 liblua5.2-dev lua-socket lua-sec lua-expat libevent-dev make unzip git redis-server autoconf g++ libjansson-dev libpython-dev expat libexpat1-dev ppa-purge python3-pip python3-dev
 
 ************************************************************************
-cd $HOME && git clone https://github.com/telebombang2018/energy && cd energy && chmod +x energy.sh && ./energy.sh install && ./energy.sh
+cd $HOME && git clone https://github.com/Miladfaryad/Chita && cd energy && chmod +x energy.sh && ./energy.sh install && ./energy.sh
 *****************
 نصب اتولانچ
 --------------
@@ -22,8 +22,6 @@ cd energy && chmod +x autoenergy.sh && screen ./autoenergy.sh
 
 *****************
 --------------
-کانال ما برای دریافت اپدیت ها و دریافت هلپر
 
-@energy_team
 
-@richenergy
+
